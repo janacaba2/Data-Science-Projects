@@ -1,7 +1,7 @@
 # StackOverflow Developer Survey 2024 -- Data Analysis
 
 **Data Download:**
-The data can be downloaded from <https://survey.stackoverflow.co/2024/> (Currently data is not added to repository due to large size).
+The data can also be downloaded from <https://survey.stackoverflow.co/2024/>.
 
 **Business Understanding:**
 The annual Stack Overflow Developer Survey provides insights into developer work environments, compensation, technology usage, and job satisfaction. The analysis in this notebook aims to identify key factors influencing developer job satisfaction in the 2024 dataset, offering actionable insights for companies and professionals.
