@@ -30,4 +30,4 @@ A Random Forest Regressor is trained to predict job satisfaction based on the pr
 Model performance is assessed using Mean Squared Error (MSE). To interpret feature importance, both Random Forest feature rankings and SHAP values are analyzed.
 
 **Insights Sharing:**
-Key findings and insights are shared in the following Medium blog post: <https://medium.com/@jana.backhus/what-drives-developer-job-satisfaction-insights-from-the-stack-overflow-2024-survey-5d8ddaa34e7e>
+Key findings and insights are shared in the following Medium blog post: [What Drives Developer Job Satisfaction? Insights from the Stack Overflow 2024 Survey](https://medium.com/@jana.backhus/what-drives-developer-job-satisfaction-insights-from-the-stack-overflow-2024-survey-5d8ddaa34e7e)
